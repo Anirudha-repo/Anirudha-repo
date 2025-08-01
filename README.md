@@ -64,7 +64,7 @@ Many of these projects include **Flask-based APIs** for real-time model serving.
 Feel free to connect or collaborate:
 
 -  Email: [anirudhaojha695@gmail.com](mailto:anirudhaojha695@gmail.com)  
--  LinkedIn: [linkedin.com/in/aniruddha-sanjay-ojha](www.linkedin.com/in/aniruddha-ojha-2586ab257)  
+-  LinkedIn: [linkedin.com/in/aniruddha-sanjay-ojha](https://www.linkedin.com/in/aniruddha-ojha-2586ab257)  
 -  GitHub: [github.com/Anirudha-repo](https://github.com/Anirudha-repo)
 
 ---
